@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  text-decoration: none;
+  outline: none;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+.facebook {
+  font-size: 3rem;
+  color: blue;
+  margin: 2rem;
+}
+.youtube {
+  font-size: 3rem;
+  color: red;
+  margin: 2rem;
+}
+body {
+  background-color: #4c4c4c;
+  color: white;
+}
