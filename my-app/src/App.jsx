@@ -1,9 +1,11 @@
-import STATE from './STATE';
+import CONDITOONAL_RENDERING from './CONDITOONAL_RENDERING/index';
+
+import '../src/style.css';
 
 function App() {
   return (
     <div>
-      <STATE />
+      <CONDITOONAL_RENDERING />
     </div>
   );
 }
