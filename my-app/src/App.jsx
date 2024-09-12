@@ -1,11 +1,9 @@
-import CONDITOONAL_RENDERING from './CONDITOONAL_RENDERING/index';
-
-import '../src/style.css';
+import EVENT_HENDLLER_CLASS from './EVENT_HENDLLER_CLASS/index';
 
 function App() {
   return (
     <div>
-      <CONDITOONAL_RENDERING />
+      <EVENT_HENDLLER_CLASS />
     </div>
   );
 }
